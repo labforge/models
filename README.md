@@ -1,4 +1,4 @@
-# DNN Feature Demo for Bottlenose Cameras
+# AI Demo for Bottlenose Cameras
 
 Please see the setup instructions [here](https://docs.labforge.ca/docs/bottlenose-file-utility).
 
