@@ -10,3 +10,6 @@ Please see the setup instructions [here](https://docs.labforge.ca/docs/bottlenos
 | 4   | [Yolov3](models/yolov3_1_416_416_3.tar)                 | Detector   | The generic Yolov3 detector trained on the COCO datasets to recognize 80 classes     |
 | 5   | [SSD-Mobilenetv2](models/mobilenet-ssd_1_3_300_300.tar) | Detector   | A generic SSD-Mobilenetv2 trained on the VOC datasets with 20 classes                |
 | 6   | [ResNet50](models/resnet50_1_3_224_224.tar)             | Classifier | ResNet50 classifier trained on Imagenet with 1000 classes                            |
+| 7   | [VRUS-tiny](models/vrus-tiny_1_416_416_3.tar)       | Detector   | A vulnerable road users (VRUs) detector trained on the Yolov3-tiny model                      |
+| 8   | [VRUS-full](models/vrus-full_1_416_416_3.tar)       | Detector   | A vulnerable road users (VRUs) detector trained on the full Yolov3 model                      |
+
